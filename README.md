@@ -45,7 +45,7 @@ The P&L dashboard provided critical insights into the financial performance of e
 * **Cost Breakdown:** The dashboard allowed for an in-depth analysis of store operating costs (Rent, Wages, Other Costs), revealing that stores in urban regions faced higher rent and wage costs compared to stores in suburban areas, impacting overall profitability.
 
 ## Conclusion
-The P&L dashboard successfully provided the ABC Retail executive team with a clear view of their financial and operational performance. By analyzing key financial metrics and operational costs, the business was able to identify high-performing stores, underperforming regions, and areas where operational costs could be optimized. Stores in regions such as California and New York showed higher operational costs, while Midwest stores achieved better cost control and profitability. These insights are essential for guiding future business strategies aimed at improving cost efficiency and increasing sales performance across the chain.
+The P&L dashboard successfully provided the Nexus Retail executive team with a clear view of their financial and operational performance. By analyzing key financial metrics and operational costs, the business was able to identify high-performing stores, underperforming regions, and areas where operational costs could be optimized. Stores in regions such as California and New York showed higher operational costs, while Midwest stores achieved better cost control and profitability. These insights are essential for guiding future business strategies aimed at improving cost efficiency and increasing sales performance across the chain.
 
 ## Recommendations
 Based on the analysis provided by the P&L dashboard, the following recommendations are suggested:
