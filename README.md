@@ -1,5 +1,15 @@
 # Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company
 
+## Table of Contents
+
+1. [Business Overview](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#business-overview)
+2. [Project Overview](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#project-overview)
+3. [Data Overview](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#data-overview)
+4. [Dashboard](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#dashboard)
+5. [Business Insights and Analysis](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#business-insights-and-analysis)
+6. [Conclusion](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#conclusion)
+7. [Recommendation](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/tree/main#recommendations)
+
 ## Business Overview
 Nexus Retail is a nationwide retail chain with over 30 stores, offering a diverse range of products across different regions in the United States. With stores varying in size from 57,000 to 103,000 square feet, the company faces challenges in managing both operational costs and sales performance efficiently. Each store experiences a fixed weekly cost of rent and wages, while sales targets range from $600,000 to $700,000. Nexus Retail has been struggling with profitability consistency, where some stores are exceeding their sales targets while others lag behind due to high fixed costs or declining sales. To maintain competitive growth, the executive team needs better visibility into the financial performance of each store, the ability to analyze regional performance, and insights into how to optimize store-level operations to boost profitability. The need for comprehensive financial and sales data analysis is paramount for Nexus Retail to make data-driven decisions and improve its bottom line.
 
