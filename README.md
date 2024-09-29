@@ -29,3 +29,31 @@ Geographic Coverage: Stores spread across multiple regions, enabling regional pe
 
 Store sizes: Ranging from 57,000 to 103,000 square feet
 
+## Dashboard
+
+[Dashboard]()
+
+## Business Insights and Analysis
+The P&L dashboard provided critical insights into the financial performance of each store, focusing on key metrics like:
+
+* **Sales Performance:** Monthly sales data revealed variations in performance across different stores, with certain regions exceeding sales targets while others fell short. The YoY growth metrics (Sales YoY Growth of 4.17%) identified upward trends in sales across the chain, while stores in underperforming regions were highlighted for further investigation.
+
+* **Gross Margin (GM%):** At an average of 55.18%, the GM% showed a steady margin, but further analysis of Cost of Sales (COS) revealed potential opportunities for cost optimization in supply chain and vendor contracts, especially in stores with higher operating costs.
+
+* **EBIT% and Growth:** EBIT (Earnings Before Interest and Tax) remained healthy at 15.79%, but the low YoY growth of EBIT (0.56%) indicated the need for strategies to enhance profitability.
+
+* **Cost Breakdown:** The dashboard allowed for an in-depth analysis of store operating costs (Rent, Wages, Other Costs), revealing that stores in urban regions faced higher rent and wage costs compared to stores in suburban areas, impacting overall profitability.
+
+## Conclusion
+The P&L dashboard successfully provided the ABC Retail executive team with a clear view of their financial and operational performance. By analyzing key financial metrics and operational costs, the business was able to identify high-performing stores, underperforming regions, and areas where operational costs could be optimized. Stores in regions such as California and New York showed higher operational costs, while Midwest stores achieved better cost control and profitability. These insights are essential for guiding future business strategies aimed at improving cost efficiency and increasing sales performance across the chain.
+
+## Recommendations
+Based on the analysis provided by the P&L dashboard, the following recommendations are suggested:
+
+* **Optimize Store-Level Operational Costs:** Stores with high fixed costs, such as those in California and New York, should focus on cost reduction strategies. Potential actions include renegotiating rent contracts to save up to 5-7% in rent costs annually and improving labor efficiency to cut wage expenses by 3-5%.
+
+* **Regional Strategy Optimization:** Underperforming regions should be targeted with tailored marketing strategies and operational improvements. A marketing budget reallocation of 15% towards underperforming regions could drive a 4-6% increase in sales growth YoY in those areas.
+
+* **Profitability Enhancement:** Focus on improving EBIT growth by adjusting pricing strategies and optimizing inventory levels. Reducing stockouts by 12% and optimizing pricing models could lead to a 5% improvement in EBIT YoY, contributing to an estimated $3M in additional annual profit chain-wide.
+
+* **Automation and Real-Time Monitoring:** Continue automating real-time financial reporting within PowerBI, with a goal of reducing manual reporting time by 40+ hours per month, freeing resources for strategic analysis and improving data-driven decision-making capabilities across the organization.
