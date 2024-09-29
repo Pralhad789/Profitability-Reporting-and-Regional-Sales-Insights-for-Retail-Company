@@ -31,7 +31,7 @@ Store sizes: Ranging from 57,000 to 103,000 square feet
 
 ## Dashboard
 
-[Dashboard]()
+![Dashboard](https://github.com/Pralhad789/Profitability-Reporting-and-Regional-Sales-Insights-for-Retail-Company/blob/main/Finance_Dashboard.png)
 
 ## Business Insights and Analysis
 The P&L dashboard provided critical insights into the financial performance of each store, focusing on key metrics like:
